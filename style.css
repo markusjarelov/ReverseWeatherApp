@@ -29,7 +29,7 @@ a {
     background: url('icon/forest_titanium_hwite.png') center center no-repeat;
     background-size: 5em;
     height: 14em;   
-    z-index: 3;
+    z-index: 2;
     
 }
 
@@ -38,6 +38,8 @@ a {
     background: url('Images/forest.jpg') no-repeat;
     background-size: 100%;
     height: 14em;
+    z-index: 1;
+    margin-bottom: -10px;
 }
 
 
@@ -55,6 +57,7 @@ a {
     background: url('Images/rainy.jpg') no-repeat;
     background-size: 100%;
     height: 14em;
+    margin-bottom: -10px;
 
 }
 
@@ -65,7 +68,7 @@ a {
     height: 14em;   
     z-index: 3;  
     
-    
+    margin-bottom: -10px;
 }
 
 
@@ -75,7 +78,7 @@ a {
     background: url('Images/tropical.jpg') no-repeat;
     background-size: 100%;
     height: 14em;
-
+margin-bottom: -10px;
     
 }
 .manual {
@@ -89,12 +92,14 @@ a {
     background: url('Images/snowy.jpg') no-repeat;
     background-size: 100%;
     height: 14em;
+    margin-bottom: -10px;
 }
 
 .night {
     background: url('Images/night.jpg') no-repeat;
     background-size: 100%;
     height: 14em;
+    margin-bottom: -10px;
 }
 
 
@@ -102,5 +107,6 @@ a {
     background: url('Images/thunder.jpg') no-repeat;
     background-size: 100%;
     height: 14em;
+    margin-bottom: -10px;
 }
 
