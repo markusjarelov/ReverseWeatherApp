@@ -39,6 +39,7 @@ a {
     background-size: 100%;
     height: 14em;
 <<<<<<< HEAD
+<<<<<<< HEAD
     z-index: 2;
 }
 
@@ -55,6 +56,9 @@ a {
     
 =======
 >>>>>>> origin/master
+=======
+
+>>>>>>> origin/master
 }
 
 
@@ -62,6 +66,7 @@ a {
     background: url('Images/rainy.jpg') no-repeat;
     background-size: 100%;
     height: 14em;
+
 }
 
 .strand {
@@ -81,6 +86,14 @@ a {
     background: url('Images/tropical.jpg') no-repeat;
     background-size: 100%;
     height: 14em;
+
+    
+}
+.manual {
+    padding: 0;
+  
+}
+
 }
 
 .snowy {
@@ -94,3 +107,12 @@ a {
     background-size: 100%;
     height: 14em;
 }
+
+<<<<<<< HEAD
+=======
+.thunder {
+    background: url('Images/thunder.jpg') no-repeat;
+    background-size: 100%;
+    height: 14em;
+}
+>>>>>>> origin/master
