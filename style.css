@@ -29,8 +29,6 @@ a {
     background: url('Images/forest.jpg') no-repeat;
     background-size: 100%;
     height: 14em;
-    margin-bottom: -10px;
-
 
 }
 
@@ -38,17 +36,32 @@ a {
     background: url('Images/rainy.jpg') no-repeat;
     background-size: 100%;
     height: 14em;
-    margin-bottom: -10px;
+
 }
 
 .tropical {
     background: url('Images/tropical.jpg') no-repeat;
     background-size: 100%;
     height: 14em;
-    margin-bottom: -10px;
 
+    
 }
 .manual {
     padding: 0;
   
 }
+
+}
+
+.snowy {
+    background: url('Images/snowy.jpg') no-repeat;
+    background-size: 100%;
+    height: 14em;
+}
+
+.night {
+    background: url('Images/night.jpg') no-repeat;
+    background-size: 100%;
+    height: 14em;
+}
+
