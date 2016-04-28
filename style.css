@@ -30,7 +30,7 @@ a {
 
 
 .forest {
-    background: url('Images/forest.jpg') no-repeat;
+    background: url('Images/forest_small.jpg') no-repeat;
     background-size: 100%;
     height: 14em;
     z-index: 1;
@@ -48,7 +48,7 @@ a {
 
 
 .rainy {
-    background: url('Images/rainy.jpg') no-repeat;
+    background: url('Images/rainy_small.jpg') no-repeat;
     background-size: 100%;
     height: 14em;
     margin-bottom: -10px;
@@ -64,7 +64,7 @@ a {
 }
 
 .tropical {
-    background: url('Images/tropical.jpg') no-repeat;
+    background: url('Images/tropical_small.jpg') no-repeat;
     background-size: 100%;
     height: 14em;
 	margin-bottom: -10px;
@@ -75,7 +75,7 @@ a {
 }
 
 .snowy {
-    background: url('Images/snowy.jpg') no-repeat;
+    background: url('Images/snowy_small.jpg') no-repeat;
     background-size: 100%;
     height: 14em;
     margin-bottom: -10px;
@@ -95,7 +95,7 @@ a {
 
 
 .night {
-    background: url('Images/night.jpg') no-repeat;
+    background: url('Images/night_small.jpg') no-repeat;
     background-size: 100%;
     height: 14em;
     margin-bottom: -10px;
@@ -113,7 +113,7 @@ a {
 
 
 .thunder {
-    background: url('Images/thunder.jpg') no-repeat;
+    background: url('Images/thunder_small.jpg') no-repeat;
     background-size: 100%;
     height: 14em;
     margin-bottom: -10px;
