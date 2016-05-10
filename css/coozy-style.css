@@ -1,4 +1,4 @@
 body {
-    background: url('../images/coozy.jpg') no-repeat fixed;
-	background-size: 100%;
+    background: url('../images/coozy.jpg') no-repeat fixed 50%;
+	background-size: 200%;
 }

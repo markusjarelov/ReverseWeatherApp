@@ -1,4 +1,4 @@
 body {
-    background: url('../images/night.jpg') no-repeat fixed;
-	background-size: 100%;
+    background: url('../images/night.jpg') no-repeat fixed 75%;
+	background-size: 200%;
 }
