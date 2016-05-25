@@ -136,3 +136,20 @@ a {
     z-index: 2;  
     margin-bottom: -10px;
 }
+
+
+.about {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    
+}
+
+.question {
+    width: 40px;
+}
+
+
+.credits {
+    font-size: em;
+}
