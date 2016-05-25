@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+        
+        <meta charset="utf-8">
+        <script type="text/javascript">
+        var howMany = 6;  
+        var page = new Array(howMany+1);
+        page[0]="coozy.html";
+        page[1]="forest.html";
+        page[2]="night.html";
+        page[3]="rain.html";
+        page[4]="snow.html";
+        page[5]="thunder.html";
+        page[6]="tropical.html";
+
+        function rndnumber(){
+        var randscript = -1;
+        while (randscript < 0 || randscript > howMany || isNaN(randscript)){
+        randscript = parseInt(Math.random()*(howMany+1));
+        }
+        return randscript;
+        }
+        quo = rndnumber();
+        quox = page[quo];
+        window.location=(quox);
+        </script>
+        
+    </head>
+
+
+    <body>
+    
+    
+    </body>
+    
+    
+</html>

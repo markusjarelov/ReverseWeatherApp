@@ -10,9 +10,13 @@ a {
 
 
 .hej {
-    font-size: 20px;
+    font-size: 25px;
     text-align: center;
-    margin: 3em;   
+    margin-top: 1.7em;
+    margin-bottom: 3em;
+    width: 100%;
+    border-top: solid 1px black;
+    padding-top: 0.5em
 }
 
 
@@ -152,4 +156,14 @@ a {
 
 .credits {
     font-size: em;
+}
+
+.random{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.dice{
+    width: 40px;
 }
