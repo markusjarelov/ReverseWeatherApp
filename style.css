@@ -156,9 +156,23 @@ a {
 
 
 .credits {
-    font-size: em;
+    font-size: 1em;
+    margin-bottom: 2em
 }
 
+.credits > a{
+    
+    display: inline;
+}
+
+.dev {
+    text-align: center;
+    margin-bottom: 10em;
+}
+.dev > p {
+    font-size: 2em;
+    
+}
 .random{
     position: absolute;
     top: 0;
